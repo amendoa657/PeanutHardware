@@ -1,0 +1,120 @@
+body {
+    margin: 0px;
+    font-family: "Poppins", sans-serif;
+}
+
+#barraSuperior {
+    background-color: #0A5786;
+    width: 100%;
+    height: 9vh;
+    position: fixed;
+}
+
+#BackgroundNuvens {
+    width: 100%;
+    margin: 0px;
+}
+
+.barraTitulo {
+    font-weight: 700;
+    font-size: 40px;
+    width: 100%;
+    height: 9vh;
+    align-content: center;
+    background-color: #FFB246;
+    display: flex; /* Adicionado */
+    justify-content: center; /* Centraliza horizontalmente */
+    align-items: center; /* Centraliza verticalmente */
+    text-align: center; /* Garante alinhamento horizontal do texto */
+}
+
+.separador {
+    width: 100%;
+    height: 3vh;
+    background-color: #FFB246;
+}
+#linha1 {
+
+}
+
+#linha3 {
+    width: 100%;
+    height: 65vh;
+    background-color: #FFEAA7;
+}
+
+.linha5 {
+    width: 100%;
+    height: 40vh;
+    background-color: #00385B;
+}
+
+.anaRoubada {
+    font-weight: 700;
+    font-size: 80px;
+    font-weight: 600;    
+    justify-content: center; /* Centraliza horizontalmente */
+    align-items: center; /* Centraliza verticalmente */
+    text-align: center; 
+    margin-top: 5%;
+    margin-bottom: 2%;
+    color: #FFFFFF;
+    paint-order: stroke fill;
+    -webkit-text-stroke: 14px #00273F;
+    
+    
+}
+
+h3 {
+    margin: 0px;
+}
+.numero {
+    font-size: 140px;
+    font-family: "ADLaM Display", system-ui;
+    color: #FFB246;
+
+}
+
+
+.anaRoubadaLinha1 {
+    margin-left: 10%;
+    margin-right: 10%;
+    display: flex; 
+    justify-content: space-between;
+}
+
+#rodape {
+    background-color: #2495DB;
+    height: 15vh;
+    display: flex;
+    justify-content: space-between; /* Centraliza horizontalmente */
+    align-items: center; /* Centraliza verticalmente */
+    text-align: center; 
+}
+
+#rodape h3 {
+    color: #FFFFFF;
+}
+
+#redesSociais {
+    margin-right: 2.7%;
+}
+
+
+#iconesRedesSociais svg {
+    color: #FFFFFF;
+    
+}
+#redesSociais div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    
+}
+
+
+#logo {
+    position: absolute;
+
+} 
