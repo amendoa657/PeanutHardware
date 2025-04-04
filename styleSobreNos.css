@@ -61,7 +61,10 @@ body {
 #mais:hover #quadradoMais {
     opacity: 1;
     z-index: 99;
+<<<<<<< HEAD
     box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.4);
+=======
+>>>>>>> 7612e05e642d62a5ac7396b9a43696871366c408
     
 }
 
