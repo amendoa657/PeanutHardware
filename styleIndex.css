@@ -54,20 +54,12 @@ body {
     left: 87.5%;
     border-radius: 10px;
     opacity: 0;
-<<<<<<< HEAD
     
-=======
-    z-index: -99;
->>>>>>> 7612e05e642d62a5ac7396b9a43696871366c408
 }
 
 #mais:hover #quadradoMais {
     opacity: 1;
-<<<<<<< HEAD
     box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.4);
-=======
-    z-index: 99;
->>>>>>> 7612e05e642d62a5ac7396b9a43696871366c408
     
 }
 
@@ -150,21 +142,12 @@ h3 {
 .anaRoubadaLinha1 {
     margin-left: 10%;
     margin-right: 10%;
-<<<<<<< HEAD
-=======
-    display: flex; 
->>>>>>> 7612e05e642d62a5ac7396b9a43696871366c408
     justify-content: space-between;
 }
 
 #rodape {
     background-color: #2495DB;
     height: 15vh;
-<<<<<<< HEAD
-
-=======
-    display: flex;
->>>>>>> 7612e05e642d62a5ac7396b9a43696871366c408
     justify-content: space-between; /* Centraliza horizontalmente */
     align-items: center; /* Centraliza verticalmente */
     text-align: center; 

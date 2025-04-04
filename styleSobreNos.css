@@ -61,10 +61,7 @@ body {
 #mais:hover #quadradoMais {
     opacity: 1;
     z-index: 99;
-<<<<<<< HEAD
     box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.4);
-=======
->>>>>>> 7612e05e642d62a5ac7396b9a43696871366c408
     
 }
 
@@ -85,10 +82,10 @@ body {
     height: 9vh;
     align-content: center;
     background-color: #FFB246;
-    display: flex; /* Adicionado */
-    justify-content: center; /* Centraliza horizontalmente */
-    align-items: center; /* Centraliza verticalmente */
-    text-align: center; /* Garante alinhamento horizontal do texto */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
 }
 
 .separador {
@@ -152,17 +149,10 @@ h3 {
 }
 
 
-.anaRoubadaLinha1 {
-    margin-left: 10%;
-    margin-right: 10%;
-    display: flex; 
-    justify-content: space-between;
-}
 
 #rodape {
     background-color: #2495DB;
     height: 15vh;
-    display: flex;
     justify-content: space-between; /* Centraliza horizontalmente */
     align-items: center; /* Centraliza verticalmente */
     text-align: center; 
@@ -171,6 +161,7 @@ h3 {
 #rodape h3 {
     color: #FFFFFF;
 }
+
 
 #redesSociais {
     margin-right: 2.7%;

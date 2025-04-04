@@ -61,10 +61,7 @@ body {
 #mais:hover #quadradoMais {
     opacity: 1;
     z-index: 99;
-<<<<<<< HEAD
     box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.4);
-=======
->>>>>>> 7612e05e642d62a5ac7396b9a43696871366c408
     
 }
 
@@ -81,11 +78,7 @@ body {
 
 
 #linha1 {
-<<<<<<< HEAD
     height: 30vh;
-=======
-    height: 40vh;
->>>>>>> 7612e05e642d62a5ac7396b9a43696871366c408
     width: 100%;
 }
 
@@ -97,20 +90,18 @@ body {
     margin: auto;
 }
 
-<<<<<<< HEAD
 
 #linha2 {
     height: 66vh;
-    display: flex;
-    padding: 0 16%;
+    margin: 30%;
+
 }
 
 .produto {
     
     background-color: white;
-    min-width: 30%;
+    min-width: 40%;
     height: 50vh;
-    margin: 0 35px;
     padding-top: 3%;
     text-align: center;
 }
@@ -120,45 +111,19 @@ body {
     margin-bottom: 25px;
 }
 
-=======
-#linha2 {
-    height: 100vh;
-}
-
-.produto {
-    background-color: white;
-    width: 20%;
-    height: 50vh;
-    padding-top: 1%;
-    text-align: center;
-}
-
->>>>>>> 7612e05e642d62a5ac7396b9a43696871366c408
 
 .imagemProduto {
     margin: auto;
     width: 80%;
-<<<<<<< HEAD
     height: 33vh;
     background-image: url("/Assets/produtos/fundoProduto.png");
     background-size: 100%;
     background-repeat: no-repeat;
-=======
-    height: 29vh;
-    background-image: url("/Assets/produtos/fundoProduto.png");
-    background-size: 100%;
-    background-repeat: no-repeat;
-    margin-bottom: 8%;
->>>>>>> 7612e05e642d62a5ac7396b9a43696871366c408
 }
 
 .botaoComprar {
     width: 67%;
-<<<<<<< HEAD
     height: 5vh;
-=======
-    height: 4vh;
->>>>>>> 7612e05e642d62a5ac7396b9a43696871366c408
     border-radius: 27px;
     margin-top: 10%;
     display: flex;
@@ -175,17 +140,10 @@ body {
 
 .separador {
     width: 100%;
-<<<<<<< HEAD
     height: 4vh;
 }
 
 
-=======
-    height: 3vh;
-    background-color: #FFB246;
-}
-
->>>>>>> 7612e05e642d62a5ac7396b9a43696871366c408
 .fundoEscuro {
     background-color: #00385B;
 }
@@ -217,7 +175,7 @@ h3 {
 #rodape {
     background-color: #2495DB;
     height: 15vh;
-    display: flex;
+    
     justify-content: space-between; /* Centraliza horizontalmente */
     align-items: center; /* Centraliza verticalmente */
     text-align: center; 
