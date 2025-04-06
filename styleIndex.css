@@ -81,10 +81,7 @@ body {
     height: 9vh;
     align-content: center;
     background-color: #FFB246;
-    display: flex; /* Adicionado */
-    justify-content: center; /* Centraliza horizontalmente */
-    align-items: center; /* Centraliza verticalmente */
-    text-align: center; /* Garante alinhamento horizontal do texto */
+    text-align: center;
 }
 
 .separador {
@@ -169,9 +166,6 @@ h3 {
     
 }
 #redesSociais div {
-    display: flex;
-    justify-content: center;
-    align-items: center;
     text-align: center;
     
 }
