@@ -97,30 +97,6 @@ body {
 
 }
 
-.produto {
-    
-    background-color: white;
-    min-width: 40%;
-    height: 50vh;
-    padding-top: 3%;
-    text-align: center;
-}
-
-.produto h3:not(.botaoComprar h3) {
-    font-size: 21px;
-    margin-bottom: 25px;
-}
-
-
-.imagemProduto {
-    margin: auto;
-    width: 80%;
-    height: 33vh;
-    background-image: url("/Assets/produtos/fundoProduto.png");
-    background-size: 100%;
-    background-repeat: no-repeat;
-}
-
 .botaoComprar {
     width: 67%;
     height: 5vh;
@@ -151,8 +127,6 @@ body {
 .fundoClaro {
     background-color: #FFEAA7;
 }
-
-
 
 h3 {
     margin: 0px;
@@ -201,13 +175,10 @@ h3 {
 
 } 
 
-#logoPura {
-    scale: 0.9;
-}
 
 a{
     text-decoration: none;
-
+    color: #FFFFFF;
 }
 
 #texto {
@@ -235,5 +206,38 @@ a{
 .formulario .tituloFormulario {
     font-size: 60px;
     margin: 0;
+}.inputNome {
+    display: block;
+    height: 10%;
+    width: 87%;
+    font-size: 20px;
+    margin: 2% auto;
+}
+
+.inputEmail {
+    display: block;
+    height: 10%;
+    width: 87%;
+    font-size: 20px;
+    margin: 2% auto;
+}
+
+.inputMensagem {
+    display: block;
+    height: 25%;
+    width: 87%;
+    font-size: 20px;
+    margin: 2% auto;
+}
+
+.botaoEnviar {
+    background-color: #FFB246;
+    height: 10%;
+    width: 87%;
+    font-size: 40px;
+    margin: 10% auto;
+    border-radius: 50px;
+    text-align: center;
+    line-height: 10vh;
 }
 
